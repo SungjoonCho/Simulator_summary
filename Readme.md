@@ -28,7 +28,7 @@
 |  | Gazebo | CoppeliaSim | Webots | 
 | :----: | :----: | :----: | :----: | 
 | Multi sensor with ROS | O | O | O | 
-| Pose control with ROS | O | O | △(Have to solove ROS problem) | 
+| Pose control with ROS | O | O | △| 
 | Creating mesh, PC with ROS & realsense depth frame | X | O | X | 
 
 
@@ -38,5 +38,5 @@
 | :----: | :----: | :----: | :----: | 
 | Components (ex. chair, table) | Many | Many | Many | 
 | Plugin language | C++ | Lua, C | C++ | 
-| Tutorial, API | Good, Many | Not diverse, Many | Not diverse, Many(Have to solove ROS problem) | 
+| Tutorial, API | Good, Many | Not diverse, Many | Not diverse, Many | 
 | CMakeLists or building plugin script | Need | Do not need to build each time | | 
