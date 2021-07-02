@@ -31,3 +31,12 @@
 | Pose control with ROS | O | O | △(Have to solove ROS problem) | 
 | Creating mesh, PC with ROS & realsense depth frame | X | O | X | 
 
+
+### Comparison Summary for Robotics simulator
+
+|  | Gazebo | CoppeliaSim | Webots | 
+| :----: | :----: | :----: | :----: | 
+| Components (ex. chair, table) | Many | Many | Many | 
+| Plugin language | C++ | Lua, C | C++ | 
+| Tutorial, API | Good, Many | Not diverse, Many | Not diverse, Many(Have to solove ROS problem) | 
+| CMakeLists or building plugin script | Need | Do not need to build each time | | 
