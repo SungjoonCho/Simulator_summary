@@ -1,4 +1,4 @@
-# Simulator Summary
+# Simulator Experiment Summary
 
 ### Gazebo
 
