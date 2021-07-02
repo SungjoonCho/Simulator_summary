@@ -16,6 +16,8 @@
 
 ### CoppeliaSim
 
+  * [Publishing rob, depth image with ROS](https://github.com/SungjoonCho/CoppeliaSim_multiRGBD)
+
   * [Creating mesh shape in CoppeliaSim with Depth frame from realsense in online](https://github.com/SungjoonCho/CoppeliaSim_DepthFrame)
   
   * [Creating pointcloud in CoppeliaSim with Depth frame from realsense in online](https://github.com/SungjoonCho/CoppeliaSim_DepthFrame)
